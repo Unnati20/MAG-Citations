@@ -1,4 +1,8 @@
 # Predict Citations of Microsoft Academic Papers
+![Inline docs](https://img.shields.io/github/issues/Unnati20/MAG-Citations)
+![Inline docs](https://img.shields.io/github/stars/Unnati20/MAG-Citations)
+![Inline docs](https://img.shields.io/github/license/Unnati20/MAG-Citations)
+![Inline docs](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2FUnnati20%2FMAG-Citations%2Fedit%2Fmaster%2FREADME.md)
 
 ## Introduction
 
